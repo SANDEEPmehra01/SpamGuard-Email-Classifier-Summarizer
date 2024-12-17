@@ -46,7 +46,7 @@ Make sure you have Python 3.x installed, then install the required libraries:
 pip install -r requirements.txt
 ```
 ## Contact
-For any questions or feedback, please reach out to: `burathimannu@gmail.com`
+For any questions or feedback, please reach out to: `worksandeep22@gmail.com`
 
 ---
 
